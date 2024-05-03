@@ -1,0 +1,5 @@
+a=eval(input c"请输入您的语文分数")
+if (a > 100 )
+print ("wrong value")
+elif a=100
+print ("space")
